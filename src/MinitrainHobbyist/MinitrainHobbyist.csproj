@@ -1,0 +1,43 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+
+    <AssemblyName>MinitrainHobbyist</AssemblyName>
+    <Product>$(AssemblyName)</Product>
+    <Version>1.0.0</Version>
+
+    <TargetFramework>netstandard2.0</TargetFramework>
+
+    <Authors>Norbby/Quackers</Authors>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="UnityEngine.Modules" Version="2019.4.40">
+      <IncludeAssets>all</IncludeAssets>
+      <PrivateAssets>all</PrivateAssets>
+    </PackageReference>
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="BepInEx.AssemblyPublicizer.MSBuild" Version="0.4.2" PrivateAssets="all" />
+
+    <Reference Include="$(DependsDir)/Assembly-CSharp.dll" Publicize="true" />
+
+    <Reference Include="Assembly-CSharp-firstpass">
+      <HintPath>..\..\..\..\Steam\steamapps\common\Obenseuer\Obenseuer_Data\Managed\Assembly-CSharp-firstpass.dll</HintPath>
+    </Reference>
+
+    <Reference Include="Lavender">
+      <HintPath>..\..\..\..\Steam\steamapps\common\Obenseuer\BepInEx\plugins\Lavender.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="BepInEx.Analyzers" PrivateAssets="all" Version="1.*" />
+
+    <PackageReference Include="BepInEx.Core" Version="5.4.*" />
+  </ItemGroup>
+
+  <Import Project="$(SolutionDir)Config.Build.user.props" />
+
+</Project>

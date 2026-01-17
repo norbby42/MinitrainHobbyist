@@ -1,0 +1,1536 @@
+[
+	{
+		"ID": 400002,
+		"Name": "Author Yellow Minitrain Painting Guide",
+		"Type": "Engineering",
+		"useOnlyStolenItems": false,
+		"allowedNonStolenItemsIds": [],
+		"keepItemOwnerOnFail": false,
+		"disableJunkSpawn": false,
+		"Appearance": {
+			"SpritePath": "",
+			"CraftShowModel": false,
+			"itemToShow": {
+				"name": "",
+				"itemnamespace": null,
+				"ID": 0
+			}
+		},
+		"RecipeRequired": false,
+		"RequiredConditions": [],
+		"ExcludingConditions": [],
+		"RecipeTags": [
+		],
+		"variantItemCategory": "None",
+		"variantItemAmount": 0,
+		"input": [
+			{
+				"Key": {
+					"name": "Paper",
+					"itemnamespace": null,
+					"ID": 10060
+				},
+				"Value": 5.0
+			},
+			{
+				"Key": {
+					"name": "Yellow Minitrain Miniature",
+					"ID": 17150,
+				},
+				"Value": 1.0
+			}
+		],
+		"output": [
+			{
+				"Key": {
+					"name": "Yellow Minitrain Painting Guide",
+					"itemnamespace": null,
+					"ID": 400002
+				},
+				"Value": 1.0
+			},
+			{
+				"Key": {
+					"name": "Yellow Minitrain Miniature",
+					"ID": 17150,
+				},
+				"Value": 1.0
+			}
+		],
+		"outputFail": [
+			{
+				"Key": {
+					"name": "Crumpled Paper",
+					"itemnamespace": null,
+					"ID": 16
+				},
+				"Value": 1.0
+			},
+			{
+				"Key": {
+					"name": "Yellow Minitrain Miniature",
+					"ID": 17150,
+				},
+				"Value": 1.0
+			}
+		],
+		"metaSettings": {
+			"setIntegrity": 1.0,
+			"setIntegrityFail": 0.5,
+			"useAmmoAsInput": true,
+			"setAmmoOfMax": 1.0,
+			"setAmmoOfMaxFail": 0.0,
+			"ammoInputItemsToIgnore": [],
+			"useLiquidContainers": false,
+			"returnLiquidContainers": true,
+			"putLiquidsIntoContainer": {
+				"name": "",
+				"itemnamespace": null,
+				"ID": 0
+			},
+			"qualityFactor": 1.0,
+			"qualityFactorFail": 0.5,
+			"useFixedQuality": false,
+			"fixedQuality": 1.0,
+			"mailName": "",
+			"mailReceiver": {
+				"name": "",
+				"ID": 0
+			},
+			"certificateLinkedItem": null
+		},
+		"FailChance": 0.15,
+		"RelevantSkill": "Engineering",
+		"MinimumSkill": 0,
+		"HardMinimumSkill": false,
+		"SkillFactor": 1.0,
+		"SkillGainFactor": 1.0,
+		"ProcessTime": 3600,
+		"Meta": null
+	},
+	{
+		"ID": 400003,
+		"Name": "Author Red Minitrain Painting Guide",
+		"Type": "Engineering",
+		"useOnlyStolenItems": false,
+		"allowedNonStolenItemsIds": [],
+		"keepItemOwnerOnFail": false,
+		"disableJunkSpawn": false,
+		"Appearance": {
+			"SpritePath": "",
+			"CraftShowModel": false,
+			"itemToShow": {
+				"name": "",
+				"itemnamespace": null,
+				"ID": 0
+			}
+		},
+		"RecipeRequired": false,
+		"RequiredConditions": [],
+		"ExcludingConditions": [],
+		"RecipeTags": [
+		],
+		"variantItemCategory": "None",
+		"variantItemAmount": 0,
+		"input": [
+			{
+				"Key": {
+					"name": "Paper",
+					"itemnamespace": null,
+					"ID": 10060
+				},
+				"Value": 5.0
+			},
+			{
+				"Key": {
+					"name": "Red Minitrain Miniature",
+					"ID": 17160,
+				},
+				"Value": 1.0
+			}
+		],
+		"output": [
+			{
+				"Key": {
+					"name": "Red Minitrain Painting Guide",
+					"itemnamespace": null,
+					"ID": 400003
+				},
+				"Value": 1.0
+			},
+			{
+				"Key": {
+					"name": "Red Minitrain Miniature",
+					"ID": 17160,
+				},
+				"Value": 1.0
+			}
+		],
+		"outputFail": [
+			{
+				"Key": {
+					"name": "Crumpled Paper",
+					"itemnamespace": null,
+					"ID": 16
+				},
+				"Value": 1.0
+			},
+			{
+				"Key": {
+					"name": "Red Minitrain Miniature",
+					"ID": 17160,
+				},
+				"Value": 1.0
+			}
+		],
+		"metaSettings": {
+			"setIntegrity": 1.0,
+			"setIntegrityFail": 0.5,
+			"useAmmoAsInput": true,
+			"setAmmoOfMax": 1.0,
+			"setAmmoOfMaxFail": 0.0,
+			"ammoInputItemsToIgnore": [],
+			"useLiquidContainers": false,
+			"returnLiquidContainers": true,
+			"putLiquidsIntoContainer": {
+				"name": "",
+				"itemnamespace": null,
+				"ID": 0
+			},
+			"qualityFactor": 1.0,
+			"qualityFactorFail": 0.5,
+			"useFixedQuality": false,
+			"fixedQuality": 1.0,
+			"mailName": "",
+			"mailReceiver": {
+				"name": "",
+				"ID": 0
+			},
+			"certificateLinkedItem": null
+		},
+		"FailChance": 0.2,
+		"RelevantSkill": "Engineering",
+		"MinimumSkill": 0,
+		"HardMinimumSkill": false,
+		"SkillFactor": 1.0,
+		"SkillGainFactor": 1.0,
+		"ProcessTime": 3600,
+		"Meta": null
+	},
+	{
+		"ID": 400004,
+		"Name": "Author Blue Minitrain Painting Guide",
+		"Type": "Engineering",
+		"useOnlyStolenItems": false,
+		"allowedNonStolenItemsIds": [],
+		"keepItemOwnerOnFail": false,
+		"disableJunkSpawn": false,
+		"Appearance": {
+			"SpritePath": "",
+			"CraftShowModel": false,
+			"itemToShow": {
+				"name": "",
+				"itemnamespace": null,
+				"ID": 0
+			}
+		},
+		"RecipeRequired": false,
+		"RequiredConditions": [],
+		"ExcludingConditions": [],
+		"RecipeTags": [
+		],
+		"variantItemCategory": "None",
+		"variantItemAmount": 0,
+		"input": [
+			{
+				"Key": {
+					"name": "Paper",
+					"itemnamespace": null,
+					"ID": 10060
+				},
+				"Value": 5.0
+			},
+			{
+				"Key": {
+					"name": "Blue Minitrain Miniature",
+					"ID": 17170,
+				},
+				"Value": 1.0
+			}
+		],
+		"output": [
+			{
+				"Key": {
+					"name": "Blue Minitrain Painting Guide",
+					"itemnamespace": null,
+					"ID": 400004
+				},
+				"Value": 1.0
+			},
+			{
+				"Key": {
+					"name": "Blue Minitrain Miniature",
+					"ID": 17170,
+				},
+				"Value": 1.0
+			}
+		],
+		"outputFail": [
+			{
+				"Key": {
+					"name": "Crumpled Paper",
+					"itemnamespace": null,
+					"ID": 16
+				},
+				"Value": 1.0
+			},
+			{
+				"Key": {
+					"name": "Blue Minitrain Miniature",
+					"ID": 17170,
+				},
+				"Value": 1.0
+			}
+		],
+		"metaSettings": {
+			"setIntegrity": 1.0,
+			"setIntegrityFail": 0.5,
+			"useAmmoAsInput": true,
+			"setAmmoOfMax": 1.0,
+			"setAmmoOfMaxFail": 0.0,
+			"ammoInputItemsToIgnore": [],
+			"useLiquidContainers": false,
+			"returnLiquidContainers": true,
+			"putLiquidsIntoContainer": {
+				"name": "",
+				"itemnamespace": null,
+				"ID": 0
+			},
+			"qualityFactor": 1.0,
+			"qualityFactorFail": 0.5,
+			"useFixedQuality": false,
+			"fixedQuality": 1.0,
+			"mailName": "",
+			"mailReceiver": {
+				"name": "",
+				"ID": 0
+			},
+			"certificateLinkedItem": null
+		},
+		"FailChance": 0.2,
+		"RelevantSkill": "Engineering",
+		"MinimumSkill": 0,
+		"HardMinimumSkill": false,
+		"SkillFactor": 1.0,
+		"SkillGainFactor": 1.0,
+		"ProcessTime": 3600,
+		"Meta": null
+	},
+	{
+		"ID": 400005,
+		"Name": "Author Hot Minitrain Painting Guide",
+		"Type": "Engineering",
+		"useOnlyStolenItems": false,
+		"allowedNonStolenItemsIds": [],
+		"keepItemOwnerOnFail": false,
+		"disableJunkSpawn": false,
+		"Appearance": {
+			"SpritePath": "",
+			"CraftShowModel": false,
+			"itemToShow": {
+				"name": "",
+				"itemnamespace": null,
+				"ID": 0
+			}
+		},
+		"RecipeRequired": false,
+		"RequiredConditions": [],
+		"ExcludingConditions": [],
+		"RecipeTags": [
+		],
+		"variantItemCategory": "None",
+		"variantItemAmount": 0,
+		"input": [
+			{
+				"Key": {
+					"name": "Paper",
+					"itemnamespace": null,
+					"ID": 10060
+				},
+				"Value": 5.0
+			},
+			{
+				"Key": {
+					"name": "Hot Minitrain Miniature",
+					"ID": 17180,
+				},
+				"Value": 1.0
+			}
+		],
+		"output": [
+			{
+				"Key": {
+					"name": "Hot Minitrain Painting Guide",
+					"itemnamespace": null,
+					"ID": 400005
+				},
+				"Value": 1.0
+			},
+			{
+				"Key": {
+					"name": "Hot Minitrain Miniature",
+					"ID": 17180,
+				},
+				"Value": 1.0
+			}
+		],
+		"outputFail": [
+			{
+				"Key": {
+					"name": "Crumpled Paper",
+					"itemnamespace": null,
+					"ID": 16
+				},
+				"Value": 1.0
+			},
+			{
+				"Key": {
+					"name": "Hot Minitrain Miniature",
+					"ID": 17180,
+				},
+				"Value": 1.0
+			}
+		],
+		"metaSettings": {
+			"setIntegrity": 1.0,
+			"setIntegrityFail": 0.5,
+			"useAmmoAsInput": true,
+			"setAmmoOfMax": 1.0,
+			"setAmmoOfMaxFail": 0.0,
+			"ammoInputItemsToIgnore": [],
+			"useLiquidContainers": false,
+			"returnLiquidContainers": true,
+			"putLiquidsIntoContainer": {
+				"name": "",
+				"itemnamespace": null,
+				"ID": 0
+			},
+			"qualityFactor": 1.0,
+			"qualityFactorFail": 0.5,
+			"useFixedQuality": false,
+			"fixedQuality": 1.0,
+			"mailName": "",
+			"mailReceiver": {
+				"name": "",
+				"ID": 0
+			},
+			"certificateLinkedItem": null
+		},
+		"FailChance": 0.3,
+		"RelevantSkill": "Engineering",
+		"MinimumSkill": 0,
+		"HardMinimumSkill": false,
+		"SkillFactor": 1.0,
+		"SkillGainFactor": 1.0,
+		"ProcessTime": 3600,
+		"Meta": null
+	},
+	{
+		"ID": 400006,
+		"Name": "Author Pink Minitrain Painting Guide",
+		"Type": "Engineering",
+		"useOnlyStolenItems": false,
+		"allowedNonStolenItemsIds": [],
+		"keepItemOwnerOnFail": false,
+		"disableJunkSpawn": false,
+		"Appearance": {
+			"SpritePath": "",
+			"CraftShowModel": false,
+			"itemToShow": {
+				"name": "",
+				"itemnamespace": null,
+				"ID": 0
+			}
+		},
+		"RecipeRequired": false,
+		"RequiredConditions": [],
+		"ExcludingConditions": [],
+		"RecipeTags": [
+		],
+		"variantItemCategory": "None",
+		"variantItemAmount": 0,
+		"input": [
+			{
+				"Key": {
+					"name": "Paper",
+					"itemnamespace": null,
+					"ID": 10060
+				},
+				"Value": 5.0
+			},
+			{
+				"Key": {
+					"name": "Pink Minitrain Miniature",
+					"ID": 17190,
+				},
+				"Value": 1.0
+			}
+		],
+		"output": [
+			{
+				"Key": {
+					"name": "Pink Minitrain Painting Guide",
+					"itemnamespace": null,
+					"ID": 400006
+				},
+				"Value": 1.0
+			},
+			{
+				"Key": {
+					"name": "Pink Minitrain Miniature",
+					"ID": 17190,
+				},
+				"Value": 1.0
+			}
+		],
+		"outputFail": [
+			{
+				"Key": {
+					"name": "Crumpled Paper",
+					"itemnamespace": null,
+					"ID": 16
+				},
+				"Value": 1.0
+			},
+			{
+				"Key": {
+					"name": "Pink Minitrain Miniature",
+					"ID": 17190,
+				},
+				"Value": 1.0
+			}
+		],
+		"metaSettings": {
+			"setIntegrity": 1.0,
+			"setIntegrityFail": 0.5,
+			"useAmmoAsInput": true,
+			"setAmmoOfMax": 1.0,
+			"setAmmoOfMaxFail": 0.0,
+			"ammoInputItemsToIgnore": [],
+			"useLiquidContainers": false,
+			"returnLiquidContainers": true,
+			"putLiquidsIntoContainer": {
+				"name": "",
+				"itemnamespace": null,
+				"ID": 0
+			},
+			"qualityFactor": 1.0,
+			"qualityFactorFail": 0.5,
+			"useFixedQuality": false,
+			"fixedQuality": 1.0,
+			"mailName": "",
+			"mailReceiver": {
+				"name": "",
+				"ID": 0
+			},
+			"certificateLinkedItem": null
+		},
+		"FailChance": 0.3,
+		"RelevantSkill": "Engineering",
+		"MinimumSkill": 0,
+		"HardMinimumSkill": false,
+		"SkillFactor": 1.0,
+		"SkillGainFactor": 1.0,
+		"ProcessTime": 3600,
+		"Meta": null
+	},
+	{
+		"ID": 400007,
+		"Name": "Author Osmo Olut Minitrain Painting Guide",
+		"Type": "Engineering",
+		"useOnlyStolenItems": false,
+		"allowedNonStolenItemsIds": [],
+		"keepItemOwnerOnFail": false,
+		"disableJunkSpawn": false,
+		"Appearance": {
+			"SpritePath": "",
+			"CraftShowModel": false,
+			"itemToShow": {
+				"name": "",
+				"itemnamespace": null,
+				"ID": 0
+			}
+		},
+		"RecipeRequired": false,
+		"RequiredConditions": [],
+		"ExcludingConditions": [],
+		"RecipeTags": [
+		],
+		"variantItemCategory": "None",
+		"variantItemAmount": 0,
+		"input": [
+			{
+				"Key": {
+					"name": "Paper",
+					"itemnamespace": null,
+					"ID": 10060
+				},
+				"Value": 5.0
+			},
+			{
+				"Key": {
+					"name": "Osmo Olut Minitrain Miniature",
+					"ID": 17200,
+				},
+				"Value": 1.0
+			}
+		],
+		"output": [
+			{
+				"Key": {
+					"name": "Osmo Olut Minitrain Painting Guide",
+					"itemnamespace": null,
+					"ID": 400007
+				},
+				"Value": 1.0
+			},
+			{
+				"Key": {
+					"name": "Osmo Olut Minitrain Miniature",
+					"ID": 17200,
+				},
+				"Value": 1.0
+			}
+		],
+		"outputFail": [
+			{
+				"Key": {
+					"name": "Crumpled Paper",
+					"itemnamespace": null,
+					"ID": 16
+				},
+				"Value": 1.0
+			},
+			{
+				"Key": {
+					"name": "Osmo Olut Minitrain Miniature",
+					"ID": 17200,
+				},
+				"Value": 1.0
+			}
+		],
+		"metaSettings": {
+			"setIntegrity": 1.0,
+			"setIntegrityFail": 0.5,
+			"useAmmoAsInput": true,
+			"setAmmoOfMax": 1.0,
+			"setAmmoOfMaxFail": 0.0,
+			"ammoInputItemsToIgnore": [],
+			"useLiquidContainers": false,
+			"returnLiquidContainers": true,
+			"putLiquidsIntoContainer": {
+				"name": "",
+				"itemnamespace": null,
+				"ID": 0
+			},
+			"qualityFactor": 1.0,
+			"qualityFactorFail": 0.5,
+			"useFixedQuality": false,
+			"fixedQuality": 1.0,
+			"mailName": "",
+			"mailReceiver": {
+				"name": "",
+				"ID": 0
+			},
+			"certificateLinkedItem": null
+		},
+		"FailChance": 0.4,
+		"RelevantSkill": "Engineering",
+		"MinimumSkill": 0,
+		"HardMinimumSkill": false,
+		"SkillFactor": 1.0,
+		"SkillGainFactor": 1.0,
+		"ProcessTime": 3600,
+		"Meta": null
+	},
+	
+		{
+		"ID": 400008,
+		"Name": "Destructively Reverse-Engineer Minitrain Miniature",
+		"Type": "Engineering",
+		"useOnlyStolenItems": false,
+		"allowedNonStolenItemsIds": [],
+		"keepItemOwnerOnFail": false,
+		"disableJunkSpawn": false,
+		"Appearance": {
+			"SpritePath": "",
+			"CraftShowModel": false,
+			"itemToShow": {
+				"name": "",
+				"itemnamespace": null,
+				"ID": 0
+			}
+		},
+		"RecipeRequired": false,
+		"RequiredConditions": [],
+		"ExcludingConditions": [],
+		"RecipeTags": [
+		],
+		"variantItemCategory": "None",
+		"variantItemAmount": 0,
+		"input": [
+			{
+				"Key": {
+					"name": "Paper",
+					"itemnamespace": null,
+					"ID": 10060
+				},
+				"Value": 5.0
+			},
+			{
+				"Key": {
+					"name": "Authentic Minitrain Miniature",
+					"ID": 400008,
+				},
+				"Value": 1.0
+			}
+		],
+		"output": [
+			{
+				"Key": {
+					"name": "Minitrain Chassis Schematics",
+					"itemnamespace": null,
+					"ID": 400010
+				},
+				"Value": 1.0
+			}
+		],
+		"outputFail": [
+			{
+				"Key": {
+					"name": "Crumpled Paper",
+					"itemnamespace": null,
+					"ID": 16
+				},
+				"Value": 1.0
+			},
+			{
+				"Key": {
+					"name": "Scrap Metal",
+					"itemnamespace": null,
+					"ID": 35180
+				},
+				"Value": 1.0
+			}
+		],
+		"metaSettings": {
+			"setIntegrity": 1.0,
+			"setIntegrityFail": 0.5,
+			"useAmmoAsInput": true,
+			"setAmmoOfMax": 1.0,
+			"setAmmoOfMaxFail": 0.0,
+			"ammoInputItemsToIgnore": [],
+			"useLiquidContainers": false,
+			"returnLiquidContainers": true,
+			"putLiquidsIntoContainer": {
+				"name": "",
+				"itemnamespace": null,
+				"ID": 0
+			},
+			"qualityFactor": 1.0,
+			"qualityFactorFail": 0.5,
+			"useFixedQuality": false,
+			"fixedQuality": 1.0,
+			"mailName": "",
+			"mailReceiver": {
+				"name": "",
+				"ID": 0
+			},
+			"certificateLinkedItem": null
+		},
+		"FailChance": 0,
+		"RelevantSkill": "Engineering",
+		"MinimumSkill": 2,
+		"HardMinimumSkill": false,
+		"SkillFactor": 1.0,
+		"SkillGainFactor": 1.0,
+		"ProcessTime": 3600,
+		"Meta": null
+	},
+	
+	{
+		"ID": 400009,
+		"Name": "Plastic Minitrain Miniature Chassis",
+		"Type": "Printer3D",
+		"useOnlyStolenItems": false,
+		"allowedNonStolenItemsIds": [],
+		"keepItemOwnerOnFail": false,
+		"disableJunkSpawn": false,
+		"Appearance": {
+			"SpritePath": "Sprites/RecipeItems/Technical/Usb",
+			"CraftShowModel": false,
+			"itemToShow": {
+				"name": "",
+				"itemnamespace": null,
+				"ID": 0
+			}
+		},
+		"RecipeRequired": true,
+		"RequiredConditions": [],
+		"ExcludingConditions": [],
+		"RecipeTags": [],
+		"variantItemCategory": "None",
+		"variantItemAmount": 0,
+		"input": [
+			{
+				"Key": {
+					"name": "Plastic Filament",
+					"itemnamespace": null,
+					"ID": 14240
+				},
+				"Value": 8.0
+			},
+			{
+				"Key": {
+					"name": "Steel Wire",
+					"itemnamespace": null,
+					"ID": 16320
+				},
+				"Value": 4.0
+			}
+		],
+		"output": [
+			{
+				"Key": {
+					"name": "Plastic Minitrain Miniature Replica",
+					"itemnamespace": null,
+					"ID": 400022
+				},
+				"Value": 1.0
+			}
+		],
+		"outputFail": [
+			{
+				"Key": {
+					"name": "Plastic Trash",
+					"itemnamespace": null,
+					"ID": 90060
+				},
+				"Value": 6.0
+			}
+		],
+		"metaSettings": {
+			"setIntegrity": 1.0,
+			"setIntegrityFail": 0.5,
+			"useAmmoAsInput": true,
+			"setAmmoOfMax": 1.0,
+			"setAmmoOfMaxFail": 0.0,
+			"ammoInputItemsToIgnore": [],
+			"useLiquidContainers": false,
+			"returnLiquidContainers": true,
+			"putLiquidsIntoContainer": {
+				"name": "",
+				"itemnamespace": null,
+				"ID": 0
+			},
+			"qualityFactor": 1.0,
+			"qualityFactorFail": 0.5,
+			"useFixedQuality": false,
+			"fixedQuality": 1.0,
+			"mailName": "",
+			"mailReceiver": {
+				"name": "",
+				"ID": 0
+			},
+			"certificateLinkedItem": null
+		},
+		"FailChance": 0.2,
+		"RelevantSkill": "Engineering",
+		"MinimumSkill": 0,
+		"HardMinimumSkill": false,
+		"SkillFactor": 1.0,
+		"SkillGainFactor": 1.0,
+		"ProcessTime": 800,
+		"Meta": null
+	},
+	{
+		"ID": 400010,
+		"Name": "Metal Minitrain Miniature Chassis",
+		"Type": "Machining",
+		"useOnlyStolenItems": false,
+		"allowedNonStolenItemsIds": [],
+		"keepItemOwnerOnFail": false,
+		"disableJunkSpawn": false,
+		"Appearance":{
+			"SpritePath": "Sprites/Items/Yellow Minitrain Miniature_spr",
+			"CraftShowModel": true,
+			"itemToShow": {
+				"name": "Metal Minitrain Miniature Chassis",
+				"itemnamespace": null,
+				"ID": 400022
+			}
+		},
+		"RecipeRequired": true,
+		"RequiredConditions": [],
+		"ExcludingConditions": [],
+		"RecipeTags": [],
+		"variantItemCategory": "None",
+		"variantItemAmount": 0,
+		"input": [
+			{
+				"Key": {
+					"name": "Aluminum Bar",
+					"itemnamespace": null,
+					"ID": 15700
+				},
+				"Value": 3.0
+			},
+			{
+				"Key": {
+					"name": "Steel Wire",
+					"itemnamespace": null,
+					"ID": 16320
+				},
+				"Value": 2.0
+			}
+		],
+		"output": [
+			{
+				"Key": {
+					"name": "Metal Minitrain Miniature Chassis",
+					"itemnamespace": null,
+					"ID": 400021
+				},
+				"Value": 1.0
+			}
+		],
+		"outputFail": [
+			{
+				"Key": {
+                        "name": "Scrap Metal",
+                        "itemnamespace": null,
+                        "ID": 35180
+                    },
+                    "Value": 1.0
+			}
+		],
+		"metaSettings": {
+			"setIntegrity": 1.0,
+			"setIntegrityFail": 0.5,
+			"useAmmoAsInput": true,
+			"setAmmoOfMax": 1.0,
+			"setAmmoOfMaxFail": 0.0,
+			"ammoInputItemsToIgnore": [],
+			"useLiquidContainers": false,
+			"returnLiquidContainers": true,
+			"putLiquidsIntoContainer": {
+				"name": "",
+				"itemnamespace": null,
+				"ID": 0
+			},
+			"qualityFactor": 1.0,
+			"qualityFactorFail": 0.5,
+			"useFixedQuality": false,
+			"fixedQuality": 1.0,
+			"mailName": "",
+			"mailReceiver": {
+				"name": "",
+				"ID": 0
+			},
+			"certificateLinkedItem": null
+		},
+		"FailChance": 0.1,
+		"RelevantSkill": "Manufacturing",
+		"MinimumSkill": 3,
+		"HardMinimumSkill": false,
+		"SkillFactor": 1.0,
+		"SkillGainFactor": 1.0,
+		"ProcessTime": 2400,
+		"Meta": null
+	},
+	
+
+
+	{
+		"ID": 400012,
+		"Name": "Paint Yellow Minitrain Miniature Replica",
+		"Type": "ChemicalLab",
+		"useOnlyStolenItems": false,
+		"allowedNonStolenItemsIds": [],
+		"keepItemOwnerOnFail": false,
+		"disableJunkSpawn": false,
+		"Appearance": {
+			"SpritePath": "",
+			"CraftShowModel": false,
+			"itemToShow": {
+				"name": "",
+				"itemnamespace": null,
+				"ID": 0
+			}
+		},
+		"RecipeRequired": true,
+		"RequiredConditions": [
+            "Crude"
+        ],
+		"ExcludingConditions": [],
+		"RecipeTags": [
+		],
+		"variantItemCategory": "None",
+		"variantItemAmount": 0,
+		"input": [
+			{
+				"Key": {
+					"name": "Bucket of Paint",
+					"itemnamespace": null,
+					"ID": 35040
+				},
+				"Value": 1.0
+			},
+			{
+				"Key": {
+					"name": "Replica Minitrain Miniature Chassis",
+					"ID": 400011,
+				},
+				"Value": 1.0
+			}
+		],
+		"output": [
+			{
+				"Key": {
+					"name": "Yellow Minitrain Miniature Replica",
+					"itemnamespace": null,
+					"ID": 400023
+				},
+				"Value": 1.0
+			}
+		],
+		"outputFail": [
+			{
+				"Key": {
+					"name": "Scrap Metal",
+					"itemnamespace": null,
+					"ID": 35180
+				},
+                "Value": 1.0
+			}
+		],
+		"metaSettings": {
+			"setIntegrity": 1.0,
+			"setIntegrityFail": 0.5,
+			"useAmmoAsInput": true,
+			"setAmmoOfMax": 1.0,
+			"setAmmoOfMaxFail": 0.0,
+			"ammoInputItemsToIgnore": [],
+			"useLiquidContainers": false,
+			"returnLiquidContainers": true,
+			"putLiquidsIntoContainer": {
+				"name": "",
+				"itemnamespace": null,
+				"ID": 0
+			},
+			"qualityFactor": 1.0,
+			"qualityFactorFail": 0.5,
+			"useFixedQuality": false,
+			"fixedQuality": 1.0,
+			"mailName": "",
+			"mailReceiver": {
+				"name": "",
+				"ID": 0
+			},
+			"certificateLinkedItem": null
+		},
+		"FailChance": 0.2,
+		"RelevantSkill": "Manufacturing",
+		"MinimumSkill": 3,
+		"HardMinimumSkill": false,
+		"SkillFactor": 0.8,
+		"SkillGainFactor": 1.0,
+		"ProcessTime": 3600,
+		"Meta": null
+	},
+	{
+		"ID": 400013,
+		"Name": "Paint Red Minitrain Miniature Replica",
+		"Type": "ChemicalLab",
+		"useOnlyStolenItems": false,
+		"allowedNonStolenItemsIds": [],
+		"keepItemOwnerOnFail": false,
+		"disableJunkSpawn": false,
+		"Appearance": {
+			"SpritePath": "",
+			"CraftShowModel": false,
+			"itemToShow": {
+				"name": "",
+				"itemnamespace": null,
+				"ID": 0
+			}
+		},
+		"RecipeRequired": true,
+		"RequiredConditions": [
+            "Crude"
+        ],
+		"ExcludingConditions": [],
+		"RecipeTags": [
+		],
+		"variantItemCategory": "None",
+		"variantItemAmount": 0,
+		"input": [
+			{
+				"Key": {
+					"name": "Bucket of Paint",
+					"itemnamespace": null,
+					"ID": 35040
+				},
+				"Value": 1.0
+			},
+			{
+				"Key": {
+					"name": "Replica Minitrain Miniature Chassis",
+					"ID": 400011,
+				},
+				"Value": 1.0
+			}
+		],
+		"output": [
+			{
+				"Key": {
+					"name": "Red Minitrain Miniature Replica",
+					"itemnamespace": null,
+					"ID": 400024
+				},
+				"Value": 1.0
+			}
+		],
+		"outputFail": [
+			{
+				"Key": {
+					"name": "Scrap Metal",
+					"itemnamespace": null,
+					"ID": 35180
+				},
+                "Value": 1.0
+			}
+		],
+		"metaSettings": {
+			"setIntegrity": 1.0,
+			"setIntegrityFail": 0.5,
+			"useAmmoAsInput": true,
+			"setAmmoOfMax": 1.0,
+			"setAmmoOfMaxFail": 0.0,
+			"ammoInputItemsToIgnore": [],
+			"useLiquidContainers": false,
+			"returnLiquidContainers": true,
+			"putLiquidsIntoContainer": {
+				"name": "",
+				"itemnamespace": null,
+				"ID": 0
+			},
+			"qualityFactor": 1.0,
+			"qualityFactorFail": 0.5,
+			"useFixedQuality": false,
+			"fixedQuality": 1.0,
+			"mailName": "",
+			"mailReceiver": {
+				"name": "",
+				"ID": 0
+			},
+			"certificateLinkedItem": null
+		},
+		"FailChance": 0.2,
+		"RelevantSkill": "Manufacturing",
+		"MinimumSkill": 3,
+		"HardMinimumSkill": false,
+		"SkillFactor": 0.8,
+		"SkillGainFactor": 1.0,
+		"ProcessTime": 3600,
+		"Meta": null
+	},
+	{
+		"ID": 400014,
+		"Name": "Paint Blue Minitrain Miniature Replica",
+		"Type": "ChemicalLab",
+		"useOnlyStolenItems": false,
+		"allowedNonStolenItemsIds": [],
+		"keepItemOwnerOnFail": false,
+		"disableJunkSpawn": false,
+		"Appearance": {
+			"SpritePath": "",
+			"CraftShowModel": false,
+			"itemToShow": {
+				"name": "",
+				"itemnamespace": null,
+				"ID": 0
+			}
+		},
+		"RecipeRequired": true,
+		"RequiredConditions": [
+            "Crude"
+        ],
+		"ExcludingConditions": [],
+		"RecipeTags": [
+		],
+		"variantItemCategory": "None",
+		"variantItemAmount": 0,
+		"input": [
+			{
+				"Key": {
+					"name": "Bucket of Paint",
+					"itemnamespace": null,
+					"ID": 35040
+				},
+				"Value": 1.0
+			},
+			{
+				"Key": {
+					"name": "Replica Minitrain Miniature Chassis",
+					"ID": 400011,
+				},
+				"Value": 1.0
+			}
+		],
+		"output": [
+			{
+				"Key": {
+					"name": "Red Minitrain Miniature Replica",
+					"itemnamespace": null,
+					"ID": 400025
+				},
+				"Value": 1.0
+			}
+		],
+		"outputFail": [
+			{
+				"Key": {
+					"name": "Scrap Metal",
+					"itemnamespace": null,
+					"ID": 35180
+				},
+                "Value": 1.0
+			}
+		],
+		"metaSettings": {
+			"setIntegrity": 1.0,
+			"setIntegrityFail": 0.5,
+			"useAmmoAsInput": true,
+			"setAmmoOfMax": 1.0,
+			"setAmmoOfMaxFail": 0.0,
+			"ammoInputItemsToIgnore": [],
+			"useLiquidContainers": false,
+			"returnLiquidContainers": true,
+			"putLiquidsIntoContainer": {
+				"name": "",
+				"itemnamespace": null,
+				"ID": 0
+			},
+			"qualityFactor": 1.0,
+			"qualityFactorFail": 0.5,
+			"useFixedQuality": false,
+			"fixedQuality": 1.0,
+			"mailName": "",
+			"mailReceiver": {
+				"name": "",
+				"ID": 0
+			},
+			"certificateLinkedItem": null
+		},
+		"FailChance": 0.2,
+		"RelevantSkill": "Manufacturing",
+		"MinimumSkill": 3,
+		"HardMinimumSkill": false,
+		"SkillFactor": 0.8,
+		"SkillGainFactor": 1.0,
+		"ProcessTime": 3600,
+		"Meta": null
+	},
+	{
+		"ID": 400015,
+		"Name": "Paint Hot Minitrain Miniature Replica",
+		"Type": "ChemicalLab",
+		"useOnlyStolenItems": false,
+		"allowedNonStolenItemsIds": [],
+		"keepItemOwnerOnFail": false,
+		"disableJunkSpawn": false,
+		"Appearance": {
+			"SpritePath": "",
+			"CraftShowModel": false,
+			"itemToShow": {
+				"name": "",
+				"itemnamespace": null,
+				"ID": 0
+			}
+		},
+		"RecipeRequired": true,
+		"RequiredConditions": [
+            "Crude"
+        ],
+		"ExcludingConditions": [],
+		"RecipeTags": [
+		],
+		"variantItemCategory": "None",
+		"variantItemAmount": 0,
+		"input": [
+			{
+				"Key": {
+					"name": "Bucket of Paint",
+					"itemnamespace": null,
+					"ID": 35040
+				},
+				"Value": 1.0
+			},
+			{
+				"Key": {
+					"name": "Replica Minitrain Miniature Chassis",
+					"ID": 400011,
+				},
+				"Value": 1.0
+			}
+		],
+		"output": [
+			{
+				"Key": {
+					"name": "Hot Minitrain Miniature Replica",
+					"itemnamespace": null,
+					"ID": 400026
+				},
+				"Value": 1.0
+			}
+		],
+		"outputFail": [
+			{
+				"Key": {
+					"name": "Scrap Metal",
+					"itemnamespace": null,
+					"ID": 35180
+				},
+                "Value": 1.0
+			}
+		],
+		"metaSettings": {
+			"setIntegrity": 1.0,
+			"setIntegrityFail": 0.5,
+			"useAmmoAsInput": true,
+			"setAmmoOfMax": 1.0,
+			"setAmmoOfMaxFail": 0.0,
+			"ammoInputItemsToIgnore": [],
+			"useLiquidContainers": false,
+			"returnLiquidContainers": true,
+			"putLiquidsIntoContainer": {
+				"name": "",
+				"itemnamespace": null,
+				"ID": 0
+			},
+			"qualityFactor": 1.0,
+			"qualityFactorFail": 0.5,
+			"useFixedQuality": false,
+			"fixedQuality": 1.0,
+			"mailName": "",
+			"mailReceiver": {
+				"name": "",
+				"ID": 0
+			},
+			"certificateLinkedItem": null
+		},
+		"FailChance": 0.3,
+		"RelevantSkill": "Manufacturing",
+		"MinimumSkill": 3,
+		"HardMinimumSkill": false,
+		"SkillFactor": 0.75,
+		"SkillGainFactor": 1.0,
+		"ProcessTime": 3600,
+		"Meta": null
+	},
+	{
+		"ID": 400016,
+		"Name": "Paint Pink Minitrain Miniature Replica",
+		"Type": "ChemicalLab",
+		"useOnlyStolenItems": false,
+		"allowedNonStolenItemsIds": [],
+		"keepItemOwnerOnFail": false,
+		"disableJunkSpawn": false,
+		"Appearance": {
+			"SpritePath": "",
+			"CraftShowModel": false,
+			"itemToShow": {
+				"name": "",
+				"itemnamespace": null,
+				"ID": 0
+			}
+		},
+		"RecipeRequired": true,
+		"RequiredConditions": [
+            "Crude"
+        ],
+		"ExcludingConditions": [],
+		"RecipeTags": [
+		],
+		"variantItemCategory": "None",
+		"variantItemAmount": 0,
+		"input": [
+			{
+				"Key": {
+					"name": "Bucket of Paint",
+					"itemnamespace": null,
+					"ID": 35040
+				},
+				"Value": 1.0
+			},
+			{
+				"Key": {
+					"name": "Replica Minitrain Miniature Chassis",
+					"ID": 400011,
+				},
+				"Value": 1.0
+			}
+		],
+		"output": [
+			{
+				"Key": {
+					"name": "Pink Minitrain Miniature Replica",
+					"itemnamespace": null,
+					"ID": 400027
+				},
+				"Value": 1.0
+			}
+		],
+		"outputFail": [
+			{
+				"Key": {
+					"name": "Scrap Metal",
+					"itemnamespace": null,
+					"ID": 35180
+				},
+                "Value": 1.0
+			}
+		],
+		"metaSettings": {
+			"setIntegrity": 1.0,
+			"setIntegrityFail": 0.5,
+			"useAmmoAsInput": true,
+			"setAmmoOfMax": 1.0,
+			"setAmmoOfMaxFail": 0.0,
+			"ammoInputItemsToIgnore": [],
+			"useLiquidContainers": false,
+			"returnLiquidContainers": true,
+			"putLiquidsIntoContainer": {
+				"name": "",
+				"itemnamespace": null,
+				"ID": 0
+			},
+			"qualityFactor": 1.0,
+			"qualityFactorFail": 0.5,
+			"useFixedQuality": false,
+			"fixedQuality": 1.0,
+			"mailName": "",
+			"mailReceiver": {
+				"name": "",
+				"ID": 0
+			},
+			"certificateLinkedItem": null
+		},
+		"FailChance": 0.3,
+		"RelevantSkill": "Manufacturing",
+		"MinimumSkill": 3,
+		"HardMinimumSkill": false,
+		"SkillFactor": 0.75,
+		"SkillGainFactor": 1.0,
+		"ProcessTime": 3600,
+		"Meta": null
+	},
+	{
+		"ID": 400017,
+		"Name": "Paint Osmo Olut Minitrain Miniature Replica",
+		"Type": "ChemicalLab",
+		"useOnlyStolenItems": false,
+		"allowedNonStolenItemsIds": [],
+		"keepItemOwnerOnFail": false,
+		"disableJunkSpawn": false,
+		"Appearance": {
+			"SpritePath": "",
+			"CraftShowModel": false,
+			"itemToShow": {
+				"name": "",
+				"itemnamespace": null,
+				"ID": 0
+			}
+		},
+		"RecipeRequired": true,
+		"RequiredConditions": [
+            "Crude"
+        ],
+		"ExcludingConditions": [],
+		"RecipeTags": [
+		],
+		"variantItemCategory": "None",
+		"variantItemAmount": 0,
+		"input": [
+			{
+				"Key": {
+					"name": "Bucket of Paint",
+					"itemnamespace": null,
+					"ID": 35040
+				},
+				"Value": 1.0
+			},
+			{
+				"Key": {
+					"name": "Replica Minitrain Miniature Chassis",
+					"ID": 400011,
+				},
+				"Value": 1.0
+			}
+		],
+		"output": [
+			{
+				"Key": {
+					"name": "Osmo Olut Minitrain Miniature Replica",
+					"itemnamespace": null,
+					"ID": 400028
+				},
+				"Value": 1.0
+			}
+		],
+		"outputFail": [
+			{
+				"Key": {
+					"name": "Scrap Metal",
+					"itemnamespace": null,
+					"ID": 35180
+				},
+                "Value": 1.0
+			}
+		],
+		"metaSettings": {
+			"setIntegrity": 1.0,
+			"setIntegrityFail": 0.5,
+			"useAmmoAsInput": true,
+			"setAmmoOfMax": 1.0,
+			"setAmmoOfMaxFail": 0.0,
+			"ammoInputItemsToIgnore": [],
+			"useLiquidContainers": false,
+			"returnLiquidContainers": true,
+			"putLiquidsIntoContainer": {
+				"name": "",
+				"itemnamespace": null,
+				"ID": 0
+			},
+			"qualityFactor": 0.9,
+			"qualityFactorFail": 0.5,
+			"useFixedQuality": false,
+			"fixedQuality": 1.0,
+			"mailName": "",
+			"mailReceiver": {
+				"name": "",
+				"ID": 0
+			},
+			"certificateLinkedItem": null
+		},
+		"FailChance": 0.5,
+		"RelevantSkill": "Manufacturing",
+		"MinimumSkill": 3,
+		"HardMinimumSkill": false,
+		"SkillFactor": 0.65,
+		"SkillGainFactor": 1.0,
+		"ProcessTime": 3600,
+		"Meta": null
+	},
+]

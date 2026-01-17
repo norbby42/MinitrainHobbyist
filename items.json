@@ -1,0 +1,1324 @@
+[
+    {
+        "ID": 400002,
+        "Title": "Yellow Minitrain Painting Guide",
+        "Categories": [
+            "Readable",
+            "Burnable"
+        ],
+        "BaseValue": 64,
+        "Description": "Painting reference for Minitrain Miniature with the standard yellow livery",
+        "Stackable": 1,
+        "Appearance": {
+            "Material": "Paper",
+            "SpritePath": "Sprites/Items/Simple Blueprint_spr",
+            "ColorValue": "RGBA(0.000, 0.000, 0.000, 0.000)",
+            "EmissionStrength": 0.0,
+            "PrefabPath": "Prefabs/Items/Simple Blueprint",
+            "PrefabPathMany": "Prefabs/Items/Simple Blueprint",
+            "SkinSpritePaths": []
+        },
+        "Actions": [
+            {
+                "DestroyAfterUse": true,
+                "ReadingTime": 0,
+                "MentalHealth": 0.0,
+                "Skills": [],
+                "SkillCap": 0,
+                "SkillAmountToGive": 0.0,
+                "RandomSkill": false,
+                "Recipes": [
+					{
+						"ID": 400012,
+						"name": "Paint Yellow Minitrain"
+					}
+				],
+                "RecipeTypes": [],
+                "RecipeModifiers": [],
+                "RecipeTag": "",
+                "RecipeTagMode": "Normal",
+                "RecipeSkillRange": {
+
+                },
+                "MaxRecipes": -1,
+                "BlueprintCategories": [],
+                "MaxBlueprints": 0,
+                "NoRequiredItems": "",
+                "ItemsToSpawn": [
+                        {
+                            "name": "Crumpled Paper",
+                            "itemnamespace": null,
+                            "ID": 16
+                        }
+                    ],
+                "RequiredItems": [],
+                "Name": "Memorize",
+                "UseSound": "Sounds/Items/book_read_001",
+                "Data": null,
+                "$type": "OS.Items.ItemReadable"
+            }
+        ],
+        "Attachments": {
+            "Name": null,
+            "Attachment1": null,
+            "Attachment2": null
+        },
+        "Meta": [
+            {
+                "burntime": 1,
+                "burntItem": {
+                    "name": "Ash",
+                    "itemnamespace": null,
+                    "ID": 10010
+                },
+                "burntItemAmount": 1.0,
+                "$type": "OS.Items.ItemFueldata"
+            }
+        ]
+    },
+	{
+        "ID": 400003,
+        "Title": "Red Minitrain Painting Guide",
+        "Categories": [
+            "Readable",
+            "Burnable"
+        ],
+        "BaseValue": 64,
+        "Description": "Painting reference for Minitrain Miniature with the variant red livery",
+        "Stackable": 1,
+        "Appearance": {
+            "Material": "Paper",
+            "SpritePath": "Sprites/Items/Simple Blueprint_spr",
+            "ColorValue": "RGBA(0.000, 0.000, 0.000, 0.000)",
+            "EmissionStrength": 0.0,
+            "PrefabPath": "Prefabs/Items/Simple Blueprint",
+            "PrefabPathMany": "Prefabs/Items/Simple Blueprint",
+            "SkinSpritePaths": []
+        },
+        "Actions": [
+            {
+                "DestroyAfterUse": true,
+                "ReadingTime": 0,
+                "MentalHealth": 0.0,
+                "Skills": [],
+                "SkillCap": 0,
+                "SkillAmountToGive": 0.0,
+                "RandomSkill": false,
+                "Recipes": [
+					{
+						"ID": 400013,
+						"name": "Paint Red Minitrain"
+					}
+				],
+                "RecipeTypes": [],
+                "RecipeModifiers": [],
+                "RecipeTag": "",
+                "RecipeTagMode": "Normal",
+                "RecipeSkillRange": {
+
+                },
+                "MaxRecipes": -1,
+                "BlueprintCategories": [],
+                "MaxBlueprints": 0,
+                "NoRequiredItems": "",
+                "ItemsToSpawn": [
+                        {
+                            "name": "Crumpled Paper",
+                            "itemnamespace": null,
+                            "ID": 16
+                        }
+                    ],
+                "RequiredItems": [],
+                "Name": "Memorize",
+                "UseSound": "Sounds/Items/book_read_001",
+                "Data": null,
+                "$type": "OS.Items.ItemReadable"
+            }
+        ],
+        "Attachments": {
+            "Name": null,
+            "Attachment1": null,
+            "Attachment2": null
+        },
+        "Meta": [
+            {
+                "burntime": 1,
+                "burntItem": {
+                    "name": "Ash",
+                    "itemnamespace": null,
+                    "ID": 10010
+                },
+                "burntItemAmount": 1.0,
+                "$type": "OS.Items.ItemFueldata"
+            }
+        ]
+    },
+	{
+        "ID": 400004,
+        "Title": "Blue Minitrain Painting Guide",
+        "Categories": [
+            "Readable",
+            "Burnable"
+        ],
+        "BaseValue": 64,
+        "Description": "Painting reference for Minitrain Miniature with the variant blue livery",
+        "Stackable": 1,
+        "Appearance": {
+            "Material": "Paper",
+            "SpritePath": "Sprites/Items/Simple Blueprint_spr",
+            "ColorValue": "RGBA(0.000, 0.000, 0.000, 0.000)",
+            "EmissionStrength": 0.0,
+            "PrefabPath": "Prefabs/Items/Simple Blueprint",
+            "PrefabPathMany": "Prefabs/Items/Simple Blueprint",
+            "SkinSpritePaths": []
+        },
+        "Actions": [
+            {
+                "DestroyAfterUse": true,
+                "ReadingTime": 0,
+                "MentalHealth": 0.0,
+                "Skills": [],
+                "SkillCap": 0,
+                "SkillAmountToGive": 0.0,
+                "RandomSkill": false,
+                "Recipes": [
+					{
+						"ID": 400014,
+						"name": "Paint Blue Minitrain"
+					}
+				],
+                "RecipeTypes": [],
+                "RecipeModifiers": [],
+                "RecipeTag": "",
+                "RecipeTagMode": "Normal",
+                "RecipeSkillRange": {
+
+                },
+                "MaxRecipes": -1,
+                "BlueprintCategories": [],
+                "MaxBlueprints": 0,
+                "NoRequiredItems": "",
+                "ItemsToSpawn": [
+                        {
+                            "name": "Crumpled Paper",
+                            "itemnamespace": null,
+                            "ID": 16
+                        }
+                    ],
+                "RequiredItems": [],
+                "Name": "Memorize",
+                "UseSound": "Sounds/Items/book_read_001",
+                "Data": null,
+                "$type": "OS.Items.ItemReadable"
+            }
+        ],
+        "Attachments": {
+            "Name": null,
+            "Attachment1": null,
+            "Attachment2": null
+        },
+        "Meta": [
+            {
+                "burntime": 1,
+                "burntItem": {
+                    "name": "Ash",
+                    "itemnamespace": null,
+                    "ID": 10010
+                },
+                "burntItemAmount": 1.0,
+                "$type": "OS.Items.ItemFueldata"
+            }
+        ]
+    },
+	{
+        "ID": 400005,
+        "Title": "Hot Minitrain Painting Guide",
+        "Categories": [
+            "Readable",
+            "Burnable"
+        ],
+        "BaseValue": 64,
+        "Description": "Painting reference for Minitrain Miniature with the rare 'Hot' livery",
+        "Stackable": 1,
+        "Appearance": {
+            "Material": "Paper",
+            "SpritePath": "Sprites/Items/Simple Blueprint_spr",
+            "ColorValue": "RGBA(0.000, 0.000, 0.000, 0.000)",
+            "EmissionStrength": 0.0,
+            "PrefabPath": "Prefabs/Items/Simple Blueprint",
+            "PrefabPathMany": "Prefabs/Items/Simple Blueprint",
+            "SkinSpritePaths": []
+        },
+        "Actions": [
+            {
+                "DestroyAfterUse": true,
+                "ReadingTime": 0,
+                "MentalHealth": 0.0,
+                "Skills": [],
+                "SkillCap": 0,
+                "SkillAmountToGive": 0.0,
+                "RandomSkill": false,
+                "Recipes": [
+					{
+						"ID": 400015,
+						"name": "Paint Hot Minitrain"
+					}
+				],
+                "RecipeTypes": [],
+                "RecipeModifiers": [],
+                "RecipeTag": "",
+                "RecipeTagMode": "Normal",
+                "RecipeSkillRange": {
+
+                },
+                "MaxRecipes": -1,
+                "BlueprintCategories": [],
+                "MaxBlueprints": 0,
+                "NoRequiredItems": "",
+                "ItemsToSpawn": [
+                        {
+                            "name": "Crumpled Paper",
+                            "itemnamespace": null,
+                            "ID": 16
+                        }
+                    ],
+                "RequiredItems": [],
+                "Name": "Memorize",
+                "UseSound": "Sounds/Items/book_read_001",
+                "Data": null,
+                "$type": "OS.Items.ItemReadable"
+            }
+        ],
+        "Attachments": {
+            "Name": null,
+            "Attachment1": null,
+            "Attachment2": null
+        },
+        "Meta": [
+            {
+                "burntime": 1,
+                "burntItem": {
+                    "name": "Ash",
+                    "itemnamespace": null,
+                    "ID": 10010
+                },
+                "burntItemAmount": 1.0,
+                "$type": "OS.Items.ItemFueldata"
+            }
+        ]
+    },
+	{
+        "ID": 400006,
+        "Title": "Pink Minitrain Painting Guide",
+        "Categories": [
+            "Readable",
+            "Burnable"
+        ],
+        "BaseValue": 64,
+        "Description": "Painting reference for Minitrain Miniature with the rare pink livery",
+        "Stackable": 1,
+        "Appearance": {
+            "Material": "Paper",
+            "SpritePath": "Sprites/Items/Simple Blueprint_spr",
+            "ColorValue": "RGBA(0.000, 0.000, 0.000, 0.000)",
+            "EmissionStrength": 0.0,
+            "PrefabPath": "Prefabs/Items/Simple Blueprint",
+            "PrefabPathMany": "Prefabs/Items/Simple Blueprint",
+            "SkinSpritePaths": []
+        },
+        "Actions": [
+            {
+                "DestroyAfterUse": true,
+                "ReadingTime": 0,
+                "MentalHealth": 0.0,
+                "Skills": [],
+                "SkillCap": 0,
+                "SkillAmountToGive": 0.0,
+                "RandomSkill": false,
+                "Recipes": [
+					{
+						"ID": 400016,
+						"name": "Paint Pink Minitrain"
+					}
+				],
+                "RecipeTypes": [],
+                "RecipeModifiers": [],
+                "RecipeTag": "",
+                "RecipeTagMode": "Normal",
+                "RecipeSkillRange": {
+
+                },
+                "MaxRecipes": -1,
+                "BlueprintCategories": [],
+                "MaxBlueprints": 0,
+                "NoRequiredItems": "",
+                "ItemsToSpawn": [
+                        {
+                            "name": "Crumpled Paper",
+                            "itemnamespace": null,
+                            "ID": 16
+                        }
+                    ],
+                "RequiredItems": [],
+                "Name": "Memorize",
+                "UseSound": "Sounds/Items/book_read_001",
+                "Data": null,
+                "$type": "OS.Items.ItemReadable"
+            }
+        ],
+        "Attachments": {
+            "Name": null,
+            "Attachment1": null,
+            "Attachment2": null
+        },
+        "Meta": [
+            {
+                "burntime": 1,
+                "burntItem": {
+                    "name": "Ash",
+                    "itemnamespace": null,
+                    "ID": 10010
+                },
+                "burntItemAmount": 1.0,
+                "$type": "OS.Items.ItemFueldata"
+            }
+        ]
+    },
+	{
+        "ID": 400007,
+        "Title": "Osmo Olut Minitrain Painting Guide",
+        "Categories": [
+            "Readable",
+            "Burnable"
+        ],
+        "BaseValue": 64,
+        "Description": "Painting reference for Minitrain Miniature with the limited run Osmo Olut livery",
+        "Stackable": 1,
+        "Appearance": {
+            "Material": "Paper",
+            "SpritePath": "Sprites/Items/Simple Blueprint_spr",
+            "ColorValue": "RGBA(0.000, 0.000, 0.000, 0.000)",
+            "EmissionStrength": 0.0,
+            "PrefabPath": "Prefabs/Items/Simple Blueprint",
+            "PrefabPathMany": "Prefabs/Items/Simple Blueprint",
+            "SkinSpritePaths": []
+        },
+        "Actions": [
+            {
+                "DestroyAfterUse": true,
+                "ReadingTime": 0,
+                "MentalHealth": 0.0,
+                "Skills": [],
+                "SkillCap": 0,
+                "SkillAmountToGive": 0.0,
+                "RandomSkill": false,
+                "Recipes": [
+					{
+						"ID": 400017,
+						"name": "Paint Osmo Olut Minitrain"
+					}
+				],
+                "RecipeTypes": [],
+                "RecipeModifiers": [],
+                "RecipeTag": "",
+                "RecipeTagMode": "Normal",
+                "RecipeSkillRange": {
+
+                },
+                "MaxRecipes": -1,
+                "BlueprintCategories": [],
+                "MaxBlueprints": 0,
+                "NoRequiredItems": "",
+                "ItemsToSpawn": [
+                        {
+                            "name": "Crumpled Paper",
+                            "itemnamespace": null,
+                            "ID": 16
+                        }
+                    ],
+                "RequiredItems": [],
+                "Name": "Memorize",
+                "UseSound": "Sounds/Items/book_read_001",
+                "Data": null,
+                "$type": "OS.Items.ItemReadable"
+            }
+        ],
+        "Attachments": {
+            "Name": null,
+            "Attachment1": null,
+            "Attachment2": null
+        },
+        "Meta": [
+            {
+                "burntime": 1,
+                "burntItem": {
+                    "name": "Ash",
+                    "itemnamespace": null,
+                    "ID": 10010
+                },
+                "burntItemAmount": 1.0,
+                "$type": "OS.Items.ItemFueldata"
+            }
+        ]
+    },
+	
+	{
+        "ID": 400008,
+        "Title": "Authentic Minitrain Miniature",
+        "Categories": [
+            "ItemGroup"
+        ],
+        "BaseValue": 0,
+        "Description": "",
+        "Stackable": 1,
+        "Appearance": {
+            "Material": "Plastic",
+            "SpritePath": "Sprites/Items/Yellow Minitrain Miniature_spr",
+            "ColorValue": "RGBA(0.000, 0.000, 0.000, 0.000)",
+            "EmissionStrength": 0.0,
+            "PrefabPath": "Prefabs/Items/Minitrain Miniature Yellow",
+            "PrefabPathMany": "Prefabs/Items/Minitrain Miniature Yellow",
+            "SkinSpritePaths": []
+        },
+        "Actions": [],
+        "Attachments": {
+            "Name": "",
+            "Attachment1": "",
+            "Attachment2": ""
+        },
+        "Meta": [
+            {
+                "itemGroup": [
+                    {
+                        "groupItemTag": "gr_yellow",
+                        "item": {
+                            "name": "Yellow Minitrain Miniature",
+                            "itemnamespace": null,
+                            "ID": 17150
+                        },
+                        "craftingValues": {
+                            "useOutputTag": "",
+                            "qualityFactor": 1.0,
+                            "addSMV": 0.0,
+                            "skillFactor": 1.0,
+                            "failFactor": 1.0
+                        }
+                    },
+                    {
+                        "groupItemTag": "gr_red",
+                        "item": {
+                            "name": "Red Minitrain Miniature",
+                            "itemnamespace": null,
+                            "ID": 17160
+                        },
+                        "craftingValues": {
+                            "useOutputTag": "",
+                            "qualityFactor": 1.0,
+                            "addSMV": 0.0,
+                            "skillFactor": 1.0,
+                            "failFactor": 1.0
+                        }
+                    },
+					{
+                        "groupItemTag": "gr_blue",
+                        "item": {
+                            "name": "Blue Minitrain Miniature",
+                            "itemnamespace": null,
+                            "ID": 17170
+                        },
+                        "craftingValues": {
+                            "useOutputTag": "",
+                            "qualityFactor": 1.0,
+                            "addSMV": 0.0,
+                            "skillFactor": 1.0,
+                            "failFactor": 1.0
+                        }
+                    },
+					{
+                        "groupItemTag": "gr_hot",
+                        "item": {
+                            "name": "Hot Minitrain Miniature",
+                            "itemnamespace": null,
+                            "ID": 17180
+                        },
+                        "craftingValues": {
+                            "useOutputTag": "",
+                            "qualityFactor": 1.0,
+                            "addSMV": 0.0,
+                            "skillFactor": 1.0,
+                            "failFactor": 1.0
+                        }
+                    },
+					{
+                        "groupItemTag": "gr_pink",
+                        "item": {
+                            "name": "Pink Minitrain Miniature",
+                            "itemnamespace": null,
+                            "ID": 17190
+                        },
+                        "craftingValues": {
+                            "useOutputTag": "",
+                            "qualityFactor": 1.0,
+                            "addSMV": 0.0,
+                            "skillFactor": 1.0,
+                            "failFactor": 1.0
+                        }
+                    },
+					{
+                        "groupItemTag": "gr_osmo",
+                        "item": {
+                            "name": "Osmo Olut Minitrain Miniature",
+                            "itemnamespace": null,
+                            "ID": 17200
+                        },
+                        "craftingValues": {
+                            "useOutputTag": "",
+                            "qualityFactor": 1.0,
+                            "addSMV": 0.0,
+                            "skillFactor": 1.0,
+                            "failFactor": 1.0
+                        }
+                    }
+                ],
+                "$type": "OS.Items.ItemGroupData"
+            }
+        ]
+    },
+	{
+        "ID": 400009,
+        "Title": "Replica Minitrain Miniature",
+        "Categories": [
+            "ItemGroup"
+        ],
+        "BaseValue": 0,
+        "Description": "",
+        "Stackable": 1,
+        "Appearance": {
+            "Material": "Plastic",
+            "SpritePath": "Sprites/Items/Yellow Minitrain Miniature_spr",
+            "ColorValue": "RGBA(0.000, 0.000, 0.000, 0.000)",
+            "EmissionStrength": 0.0,
+            "PrefabPath": "Prefabs/Items/Minitrain Miniature Yellow",
+            "PrefabPathMany": "Prefabs/Items/Minitrain Miniature Yellow",
+            "SkinSpritePaths": []
+        },
+        "Actions": [],
+        "Attachments": {
+            "Name": "",
+            "Attachment1": "",
+            "Attachment2": ""
+        },
+        "Meta": [
+            {
+                "itemGroup": [
+                    {
+                        "groupItemTag": "gr_yellow",
+                        "item": {
+                            "name": "Yellow Minitrain Replica",
+                            "itemnamespace": null,
+                            "ID": 400023
+                        },
+                        "craftingValues": {
+                            "useOutputTag": "",
+                            "qualityFactor": 1.0,
+                            "addSMV": 0.0,
+                            "skillFactor": 1.0,
+                            "failFactor": 1.0
+                        }
+                    },
+                    {
+                        "groupItemTag": "gr_red",
+                        "item": {
+                            "name": "Red Minitrain Replica",
+                            "itemnamespace": null,
+                            "ID": 400024
+                        },
+                        "craftingValues": {
+                            "useOutputTag": "",
+                            "qualityFactor": 1.0,
+                            "addSMV": 0.0,
+                            "skillFactor": 1.0,
+                            "failFactor": 1.0
+                        }
+                    },
+					{
+                        "groupItemTag": "gr_blue",
+                        "item": {
+                            "name": "Blue Minitrain Replica",
+                            "itemnamespace": null,
+                            "ID": 400025
+                        },
+                        "craftingValues": {
+                            "useOutputTag": "",
+                            "qualityFactor": 1.0,
+                            "addSMV": 0.0,
+                            "skillFactor": 1.0,
+                            "failFactor": 1.0
+                        }
+                    },
+					{
+                        "groupItemTag": "gr_hot",
+                        "item": {
+                            "name": "Hot Minitrain Replica",
+                            "itemnamespace": null,
+                            "ID": 400026
+                        },
+                        "craftingValues": {
+                            "useOutputTag": "",
+                            "qualityFactor": 1.0,
+                            "addSMV": 0.0,
+                            "skillFactor": 1.0,
+                            "failFactor": 1.0
+                        }
+                    },
+					{
+                        "groupItemTag": "gr_pink",
+                        "item": {
+                            "name": "Pink Minitrain Replica",
+                            "itemnamespace": null,
+                            "ID": 400027
+                        },
+                        "craftingValues": {
+                            "useOutputTag": "",
+                            "qualityFactor": 1.0,
+                            "addSMV": 0.0,
+                            "skillFactor": 1.0,
+                            "failFactor": 1.0
+                        }
+                    },
+					{
+                        "groupItemTag": "gr_osmo",
+                        "item": {
+                            "name": "Osmo Olut Minitrain Replica",
+                            "itemnamespace": null,
+                            "ID": 400028
+                        },
+                        "craftingValues": {
+                            "useOutputTag": "",
+                            "qualityFactor": 1.0,
+                            "addSMV": 0.0,
+                            "skillFactor": 1.0,
+                            "failFactor": 1.0
+                        }
+                    }
+                ],
+                "$type": "OS.Items.ItemGroupData"
+            }
+        ]
+    },
+	
+	{
+        "ID": 400010,
+        "Title": "Minitrain Chassis Schematics",
+        "Categories": [
+            "Readable",
+            "Burnable"
+        ],
+        "BaseValue": 64,
+        "Description": "Schematics for a minitrain miniature chassis.  Painting must be performed by hand.",
+        "Stackable": 1,
+        "Appearance": {
+            "Material": "Paper",
+            "SpritePath": "Sprites/Items/Simple Blueprint_spr",
+            "ColorValue": "RGBA(0.000, 0.000, 0.000, 0.000)",
+            "EmissionStrength": 0.0,
+            "PrefabPath": "Prefabs/Items/Simple Blueprint",
+            "PrefabPathMany": "Prefabs/Items/Simple Blueprint",
+            "SkinSpritePaths": []
+        },
+        "Actions": [
+            {
+                "DestroyAfterUse": true,
+                "ReadingTime": 0,
+                "MentalHealth": 0.0,
+                "Skills": [],
+                "SkillCap": 0,
+                "SkillAmountToGive": 0.0,
+                "RandomSkill": false,
+                "Recipes": [
+					{
+						"ID": 400009,
+						"name": "Plastic Minitrain Miniature Chassis"
+					},
+					{
+						"ID": 400010,
+						"name": "Metal Minitrain Miniature Chassis"
+					}
+				],
+                "RecipeTypes": [],
+                "RecipeModifiers": [],
+                "RecipeTag": "",
+                "RecipeTagMode": "Normal",
+                "RecipeSkillRange": {
+
+                },
+                "MaxRecipes": -1,
+                "BlueprintCategories": [],
+                "MaxBlueprints": 0,
+                "NoRequiredItems": "",
+                "ItemsToSpawn": [
+                        {
+                            "name": "Crumpled Paper",
+                            "itemnamespace": null,
+                            "ID": 16
+                        }
+                    ],
+                "RequiredItems": [],
+                "Name": "Read",
+                "UseSound": "Sounds/Items/book_read_001",
+                "Data": null,
+                "$type": "OS.Items.ItemReadable"
+            }
+        ],
+        "Attachments": {
+            "Name": null,
+            "Attachment1": null,
+            "Attachment2": null
+        },
+        "Meta": [
+            {
+                "burntime": 1,
+                "burntItem": {
+                    "name": "Ash",
+                    "itemnamespace": null,
+                    "ID": 10010
+                },
+                "burntItemAmount": 1.0,
+                "$type": "OS.Items.ItemFueldata"
+            }
+        ]
+    },
+	
+	{
+        "ID": 400011,
+        "Title": "Replica Minitrain Miniature Chassis",
+        "Categories": [
+            "ItemGroup"
+        ],
+        "BaseValue": 0,
+        "Description": "",
+        "Stackable": 1,
+        "Appearance": {
+            "Material": "Plastic",
+            "SpritePath": "Sprites/Items/Yellow Minitrain Miniature_spr",
+            "ColorValue": "RGBA(0.000, 0.000, 0.000, 0.000)",
+            "EmissionStrength": 0.0,
+            "PrefabPath": "Prefabs/Items/Minitrain Miniature Yellow",
+            "PrefabPathMany": "Prefabs/Items/Minitrain Miniature Yellow",
+            "SkinSpritePaths": []
+        },
+        "Actions": [],
+        "Attachments": {
+            "Name": "",
+            "Attachment1": "",
+            "Attachment2": ""
+        },
+        "Meta": [
+            {
+                "itemGroup": [
+                    {
+                        "groupItemTag": "gr_plastic",
+                        "item": {
+                            "name": "Plastic Minitrain Miniature Chassis",
+                            "itemnamespace": null,
+                            "ID": 400022
+                        },
+                        "craftingValues": {
+                            "useOutputTag": "",
+                            "qualityFactor": 0.5,
+                            "addSMV": 0.0,
+                            "skillFactor": 1.0,
+                            "failFactor": 1.0
+                        }
+                    },
+                    {
+                        "groupItemTag": "gr_metal",
+                        "item": {
+                            "name": "Metal Minitrain Miniature Chassis",
+                            "itemnamespace": null,
+                            "ID": 400021
+                        },
+                        "craftingValues": {
+                            "useOutputTag": "",
+                            "qualityFactor": 2.0,
+                            "addSMV": 0.0,
+                            "skillFactor": 1.0,
+                            "failFactor": 1.0
+                        }
+                    }
+                ],
+                "$type": "OS.Items.ItemGroupData"
+            }
+        ]
+    },
+	
+	{
+        "ID": 400012,
+        "Title": "All Minitrain Miniature",
+        "Categories": [
+            "ItemGroup"
+        ],
+        "BaseValue": 0,
+        "Description": "",
+        "Stackable": 1,
+        "Appearance": {
+            "Material": "Plastic",
+            "SpritePath": "Sprites/Items/Yellow Minitrain Miniature_spr",
+            "ColorValue": "RGBA(0.000, 0.000, 0.000, 0.000)",
+            "EmissionStrength": 0.0,
+            "PrefabPath": "Prefabs/Items/Minitrain Miniature Yellow",
+            "PrefabPathMany": "Prefabs/Items/Minitrain Miniature Yellow",
+            "SkinSpritePaths": []
+        },
+        "Actions": [],
+        "Attachments": {
+            "Name": "",
+            "Attachment1": "",
+            "Attachment2": ""
+        },
+        "Meta": [
+            {
+                "itemGroup": [
+                    {
+                        "groupItemTag": "gr_yellowauthentic",
+                        "item": {
+                            "name": "Yellow Minitrain Miniature",
+                            "itemnamespace": null,
+                            "ID": 17150
+                        },
+                        "craftingValues": {
+                            "useOutputTag": "",
+                            "qualityFactor": 1.0,
+                            "addSMV": 0.0,
+                            "skillFactor": 1.0,
+                            "failFactor": 1.0
+                        }
+                    },
+                    {
+                        "groupItemTag": "gr_redauthentic",
+                        "item": {
+                            "name": "Red Minitrain Miniature",
+                            "itemnamespace": null,
+                            "ID": 17160
+                        },
+                        "craftingValues": {
+                            "useOutputTag": "",
+                            "qualityFactor": 1.0,
+                            "addSMV": 0.0,
+                            "skillFactor": 1.0,
+                            "failFactor": 1.0
+                        }
+                    },
+					{
+                        "groupItemTag": "gr_blueauthentic",
+                        "item": {
+                            "name": "Blue Minitrain Miniature",
+                            "itemnamespace": null,
+                            "ID": 17170
+                        },
+                        "craftingValues": {
+                            "useOutputTag": "",
+                            "qualityFactor": 1.0,
+                            "addSMV": 0.0,
+                            "skillFactor": 1.0,
+                            "failFactor": 1.0
+                        }
+                    },
+					{
+                        "groupItemTag": "gr_hotauthentic",
+                        "item": {
+                            "name": "Hot Minitrain Miniature",
+                            "itemnamespace": null,
+                            "ID": 17180
+                        },
+                        "craftingValues": {
+                            "useOutputTag": "",
+                            "qualityFactor": 1.0,
+                            "addSMV": 0.0,
+                            "skillFactor": 1.0,
+                            "failFactor": 1.0
+                        }
+                    },
+					{
+                        "groupItemTag": "gr_pinkauthentic",
+                        "item": {
+                            "name": "Pink Minitrain Miniature",
+                            "itemnamespace": null,
+                            "ID": 17190
+                        },
+                        "craftingValues": {
+                            "useOutputTag": "",
+                            "qualityFactor": 1.0,
+                            "addSMV": 0.0,
+                            "skillFactor": 1.0,
+                            "failFactor": 1.0
+                        }
+                    },
+					{
+                        "groupItemTag": "gr_osmoauthentic",
+                        "item": {
+                            "name": "Osmo Olut Minitrain Miniature",
+                            "itemnamespace": null,
+                            "ID": 17200
+                        },
+                        "craftingValues": {
+                            "useOutputTag": "",
+                            "qualityFactor": 1.0,
+                            "addSMV": 0.0,
+                            "skillFactor": 1.0,
+                            "failFactor": 1.0
+                        }
+                    },
+					{
+                        "groupItemTag": "gr_yellowreplica",
+                        "item": {
+                            "name": "Yellow Minitrain Replica",
+                            "itemnamespace": null,
+                            "ID": 400023
+                        },
+                        "craftingValues": {
+                            "useOutputTag": "",
+                            "qualityFactor": 1.0,
+                            "addSMV": 0.0,
+                            "skillFactor": 1.0,
+                            "failFactor": 1.0
+                        }
+                    },
+                    {
+                        "groupItemTag": "gr_redreplica",
+                        "item": {
+                            "name": "Red Minitrain Replica",
+                            "itemnamespace": null,
+                            "ID": 400024
+                        },
+                        "craftingValues": {
+                            "useOutputTag": "",
+                            "qualityFactor": 1.0,
+                            "addSMV": 0.0,
+                            "skillFactor": 1.0,
+                            "failFactor": 1.0
+                        }
+                    },
+					{
+                        "groupItemTag": "gr_bluereplica",
+                        "item": {
+                            "name": "Blue Minitrain Replica",
+                            "itemnamespace": null,
+                            "ID": 400025
+                        },
+                        "craftingValues": {
+                            "useOutputTag": "",
+                            "qualityFactor": 1.0,
+                            "addSMV": 0.0,
+                            "skillFactor": 1.0,
+                            "failFactor": 1.0
+                        }
+                    },
+					{
+                        "groupItemTag": "gr_hotreplica",
+                        "item": {
+                            "name": "Hot Minitrain Replica",
+                            "itemnamespace": null,
+                            "ID": 400026
+                        },
+                        "craftingValues": {
+                            "useOutputTag": "",
+                            "qualityFactor": 1.0,
+                            "addSMV": 0.0,
+                            "skillFactor": 1.0,
+                            "failFactor": 1.0
+                        }
+                    },
+					{
+                        "groupItemTag": "gr_pinkreplica",
+                        "item": {
+                            "name": "Pink Minitrain Replica",
+                            "itemnamespace": null,
+                            "ID": 400027
+                        },
+                        "craftingValues": {
+                            "useOutputTag": "",
+                            "qualityFactor": 1.0,
+                            "addSMV": 0.0,
+                            "skillFactor": 1.0,
+                            "failFactor": 1.0
+                        }
+                    },
+					{
+                        "groupItemTag": "gr_osmoreplica",
+                        "item": {
+                            "name": "Osmo Olut Minitrain Replica",
+                            "itemnamespace": null,
+                            "ID": 400028
+                        },
+                        "craftingValues": {
+                            "useOutputTag": "",
+                            "qualityFactor": 1.0,
+                            "addSMV": 0.0,
+                            "skillFactor": 1.0,
+                            "failFactor": 1.0
+                        }
+                    }
+                ],
+                "$type": "OS.Items.ItemGroupData"
+            }
+        ]
+    },
+	
+	{
+        "ID": 400021,
+        "Title": "Metal Minitrain Miniature Chassis",
+        "Categories": [
+            "Junk"
+        ],
+        "BaseValue": 30,
+        "Description": "An unpainted minitrain miniature replica",
+        "Stackable": 8,
+        "Appearance": {
+            "Material": "Metal",
+            "SpritePath": "Sprites/Items/Yellow Minitrain Miniature_spr",
+            "ColorValue": "RGBA(0.000, 0.000, 0.000, 0.000)",
+            "EmissionStrength": 0.0,
+            "PrefabPath": "Prefabs/Items/Minitrain Miniature Yellow",
+            "PrefabPathMany": "Prefabs/Items/Minitrain Miniature Yellow",
+            "SkinSpritePaths": []
+        },
+        "Actions": [],
+        "Attachments": {
+            "Name": "",
+            "Attachment1": "none",
+            "Attachment2": "none"
+        },
+        "Meta": []
+    },
+	{
+        "ID": 400022,
+        "Title": "Plastic Minitrain Miniature Chassis",
+        "Categories": [
+            "Junk"
+        ],
+        "BaseValue": 10,
+        "Description": "An unpainted minitrain miniature replica",
+        "Stackable": 8,
+        "Appearance": {
+            "Material": "Plastic",
+            "SpritePath": "Sprites/Items/Yellow Minitrain Miniature_spr",
+            "ColorValue": "RGBA(0.000, 0.000, 0.000, 0.000)",
+            "EmissionStrength": 0.0,
+            "PrefabPath": "Prefabs/Items/Minitrain Miniature Yellow",
+            "PrefabPathMany": "Prefabs/Items/Minitrain Miniature Yellow",
+            "SkinSpritePaths": []
+        },
+        "Actions": [],
+        "Attachments": {
+            "Name": "",
+            "Attachment1": "none",
+            "Attachment2": "none"
+        },
+        "Meta": []
+    },
+	{
+        "ID": 400023,
+        "Title": "Yellow Minitrain Miniature Replica",
+        "Categories": [
+            "Toy",
+			"Junk"
+        ],
+        "BaseValue": 67,
+        "Description": "Knockoff replica",
+        "Stackable": 8,
+        "Appearance": {
+            "Material": "Plastic",
+            "SpritePath": "Sprites/Items/Yellow Minitrain Miniature_spr",
+            "ColorValue": "RGBA(0.000, 0.000, 0.000, 0.000)",
+            "EmissionStrength": 0.0,
+            "PrefabPath": "Prefabs/Items/Minitrain Miniature Yellow",
+            "PrefabPathMany": "Prefabs/Items/Minitrain Miniature Yellow",
+            "SkinSpritePaths": []
+        },
+        "Actions": [],
+        "Attachments": {
+            "Name": "",
+            "Attachment1": "none",
+            "Attachment2": "none"
+        },
+        "Meta": [
+            {
+                "fixedQuality": false,
+                "quality": 1.0,
+                "modifies": "Value",
+                "$type": "OS.Items.ItemQualityData"
+            }
+        ]
+    },
+	{
+        "ID": 400024,
+        "Title": "Red Minitrain Miniature Replica",
+        "Categories": [
+            "Toy",
+			"Junk"
+        ],
+        "BaseValue": 80,
+        "Description": "Knockoff replica",
+        "Stackable": 8,
+        "Appearance": {
+            "Material": "Plastic",
+            "SpritePath": "Sprites/Items/Red Minitrain Miniature_spr",
+            "ColorValue": "RGBA(0.000, 0.000, 0.000, 0.000)",
+            "EmissionStrength": 0.0,
+            "PrefabPath": "Prefabs/Items/Minitrain Miniature Red",
+            "PrefabPathMany": "Prefabs/Items/Minitrain Miniature Red",
+            "SkinSpritePaths": []
+        },
+        "Actions": [],
+        "Attachments": {
+            "Name": "",
+            "Attachment1": "none",
+            "Attachment2": "none"
+        },
+        "Meta": [
+            {
+                "fixedQuality": false,
+                "quality": 1.0,
+                "modifies": "Value",
+                "$type": "OS.Items.ItemQualityData"
+            }
+        ]
+    },
+	{
+        "ID": 400025,
+        "Title": "Blue Minitrain Miniature Replica",
+        "Categories": [
+            "Toy",
+			"Junk"
+        ],
+        "BaseValue": 90,
+        "Description": "Knockoff replica",
+        "Stackable": 8,
+        "Appearance": {
+            "Material": "Plastic",
+            "SpritePath": "Sprites/Items/Blue Minitrain Miniature_spr",
+            "ColorValue": "RGBA(0.000, 0.000, 0.000, 0.000)",
+            "EmissionStrength": 0.0,
+            "PrefabPath": "Prefabs/Items/Minitrain Miniature Blue",
+            "PrefabPathMany": "Prefabs/Items/Minitrain Miniature Blue",
+            "SkinSpritePaths": []
+        },
+        "Actions": [],
+        "Attachments": {
+            "Name": "",
+            "Attachment1": "none",
+            "Attachment2": "none"
+        },
+        "Meta": [
+            {
+                "fixedQuality": false,
+                "quality": 1.0,
+                "modifies": "Value",
+                "$type": "OS.Items.ItemQualityData"
+            }
+        ]
+    },
+    {
+        "ID": 400026,
+        "Title": "Hot Minitrain Miniature Replica",
+        "Categories": [
+            "Toy",
+			"Junk"
+        ],
+        "BaseValue": 445,
+        "Description": "Knockoff replica.  The flames make it go faster",
+        "Stackable": 8,
+        "Appearance": {
+            "Material": "Plastic",
+            "SpritePath": "Sprites/Items/Hot Minitrain Miniature_spr",
+            "ColorValue": "RGBA(0.000, 0.000, 0.000, 0.000)",
+            "EmissionStrength": 0.0,
+            "PrefabPath": "Prefabs/Items/Minitrain Miniature Flames",
+            "PrefabPathMany": "Prefabs/Items/Minitrain Miniature Flames",
+            "SkinSpritePaths": []
+        },
+        "Actions": [],
+        "Attachments": {
+            "Name": "",
+            "Attachment1": "none",
+            "Attachment2": "none"
+        },
+        "Meta": [
+            {
+                "fixedQuality": false,
+                "quality": 1.0,
+                "modifies": "Value",
+                "$type": "OS.Items.ItemQualityData"
+            }
+        ]
+    },
+    {
+        "ID": 400027,
+        "Title": "Pink Minitrain Miniature Replica",
+        "Categories": [
+            "Toy",
+			"Junk"
+        ],
+        "BaseValue": 667,
+        "Description": "Knockoff replica",
+        "Stackable": 8,
+        "Appearance": {
+            "Material": "Plastic",
+            "SpritePath": "Sprites/Items/Pink Minitrain Miniature_spr",
+            "ColorValue": "RGBA(0.000, 0.000, 0.000, 0.000)",
+            "EmissionStrength": 0.0,
+            "PrefabPath": "Prefabs/Items/Minitrain Miniature Pink",
+            "PrefabPathMany": "Prefabs/Items/Minitrain Miniature Pink",
+            "SkinSpritePaths": []
+        },
+        "Actions": [],
+        "Attachments": {
+            "Name": "",
+            "Attachment1": "none",
+            "Attachment2": "none"
+        },
+        "Meta": [
+            {
+                "fixedQuality": false,
+                "quality": 1.0,
+                "modifies": "Value",
+                "$type": "OS.Items.ItemQualityData"
+            }
+        ]
+    },
+    {
+        "ID": 400028,
+        "Title": "Osmo Olut Minitrain Miniature Replica",
+        "Categories": [
+            "Toy",
+			"Junk"
+        ],
+        "BaseValue": 2225,
+        "Description": "Unauthorized knockoff replica.  If you see a man with a tie and suitcase - RUN!",
+        "Stackable": 8,
+        "Appearance": {
+            "Material": "Plastic",
+            "SpritePath": "Sprites/Items/Osmo Olut Minitrain Miniature_spr",
+            "ColorValue": "RGBA(0.000, 0.000, 0.000, 0.000)",
+            "EmissionStrength": 0.0,
+            "PrefabPath": "Prefabs/Items/Minitrain Miniature Osmo",
+            "PrefabPathMany": "Prefabs/Items/Minitrain Miniature Osmo",
+            "SkinSpritePaths": []
+        },
+        "Actions": [],
+        "Attachments": {
+            "Name": "",
+            "Attachment1": "none",
+            "Attachment2": "none"
+        },
+        "Meta": [
+            {
+                "fixedQuality": false,
+                "quality": 1.0,
+                "modifies": "Value",
+                "$type": "OS.Items.ItemQualityData"
+            }
+        ]
+    },
+]
